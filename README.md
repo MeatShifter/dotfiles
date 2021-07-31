@@ -1,7 +1,7 @@
 # Dotfiles '.'
 
   This repo is for the MPOS dot files configuration for the default user of the system.
-  There are difrent branches for diffrent verions that is dictated by server name and host OS.
+  There are difrent branches for diffrent verions that is dictated by host OS and server name .
 
 Example:
     

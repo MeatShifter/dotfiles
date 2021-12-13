@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Categories=Network;
+Comment=Xtreme Download Manager
+Exec=java -Xmx1024m -jar "/opt/xdman/xdman.jar" -m
+Icon=/opt/xdman/icon.png
+Name=Xtreme Download Manager
+Terminal=false
+TryExec=java
+Type=Application

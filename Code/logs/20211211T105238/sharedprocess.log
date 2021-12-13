@@ -1,0 +1,2 @@
+[2021-12-11 10:52:51.784] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-11 12:00:26.869] [sharedprocess] [info] Starting worker process with pid 12156 (type: watcherServiceParcelSharedProcess, window: 1).

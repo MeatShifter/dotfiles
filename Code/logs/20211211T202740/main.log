@@ -1,0 +1,6 @@
+[2021-12-11 20:27:41.806] [main] [info] update#setState idle
+[2021-12-11 20:27:43.157] [main] [info] ExtensionHostStarterWorker created
+[2021-12-11 20:28:01.173] [main] [info] Starting extension host with pid 2255 (fork() took 229 ms).
+[2021-12-11 20:28:11.827] [main] [info] update#setState checking for updates
+[2021-12-11 20:28:14.930] [main] [info] update#setState idle
+[2021-12-11 20:29:08.353] [main] [info] Enabling inspect port on extension host with pid 2255.

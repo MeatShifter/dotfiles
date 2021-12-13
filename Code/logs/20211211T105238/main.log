@@ -1,0 +1,8 @@
+[2021-12-11 10:52:38.975] [main] [info] update#setState idle
+[2021-12-11 10:52:39.352] [main] [info] ExtensionHostStarterWorker created
+[2021-12-11 10:52:42.631] [main] [info] Starting extension host with pid 9535 (fork() took 49 ms).
+[2021-12-11 10:53:08.979] [main] [info] update#setState checking for updates
+[2021-12-11 10:53:09.114] [main] [info] update#setState idle
+[2021-12-11 12:00:27.989] [main] [info] Extension host with pid 9535 exited with code: 0, signal: null.
+[2021-12-11 12:00:30.684] [main] [info] Starting extension host with pid 12179 (fork() took 233 ms).
+[2021-12-11 12:01:36.014] [main] [info] Enabling inspect port on extension host with pid 12179.

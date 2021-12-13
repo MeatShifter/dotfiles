@@ -1,0 +1,20 @@
+[2021-12-13 11:08:44.703] [exthost] [info] Extension host with pid 2177 started
+[2021-12-13 11:08:44.703] [exthost] [info] Skipping acquiring lock for /home/meatshifter/.config/Code/User/workspaceStorage/cb4c65ee2a43107eee40c54ec8ff0138.
+[2021-12-13 11:08:49.414] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-13 11:08:49.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-13 11:08:50.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-13 11:08:50.503] [exthost] [info] ExtensionService#_doActivateExtension bierner.emojisense, startup: true, activationEvent: '*'
+[2021-12-13 11:08:51.277] [exthost] [info] ExtensionService#_doActivateExtension ExodiusStudios.comment-anchors, startup: true, activationEvent: '*'
+[2021-12-13 11:08:52.014] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-13 11:08:52.038] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2021-12-13 11:08:52.144] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: true, activationEvent: '*'
+[2021-12-13 11:09:02.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:02.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:02.742] [exthost] [info] ExtensionService#_doActivateExtension darkriszty.markdown-table-prettify, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:03.784] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:10.983] [exthost] [info] ExtensionService#_doActivateExtension fcrespo82.markdown-table-formatter, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:11.498] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-13 11:09:12.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-13 11:09:12.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-13 11:09:14.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-13 11:09:15.228] [exthost] [info] Eager extensions activated

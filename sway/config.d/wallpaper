@@ -1,0 +1,5 @@
+# MagicPuddle
+
+# Set wallpaper
+output * bg ~/.config/wallpaper fill
+

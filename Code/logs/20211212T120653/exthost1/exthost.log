@@ -1,0 +1,22 @@
+[2021-12-12 12:07:16.705] [exthost] [info] Extension host with pid 17317 started
+[2021-12-12 12:07:16.705] [exthost] [info] Skipping acquiring lock for /home/meatshifter/.config/Code/User/workspaceStorage/cb4c65ee2a43107eee40c54ec8ff0138.
+[2021-12-12 12:07:20.036] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-12 12:07:20.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-12 12:07:20.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-12 12:07:20.146] [exthost] [info] ExtensionService#_doActivateExtension bierner.emojisense, startup: true, activationEvent: '*'
+[2021-12-12 12:07:20.203] [exthost] [info] ExtensionService#_doActivateExtension ExodiusStudios.comment-anchors, startup: true, activationEvent: '*'
+[2021-12-12 12:07:20.589] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2021-12-12 12:07:20.646] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2021-12-12 12:07:20.776] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: true, activationEvent: '*'
+[2021-12-12 12:07:25.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-12 12:07:27.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-12 12:07:27.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-12 12:07:28.912] [exthost] [info] Eager extensions activated
+[2021-12-12 12:07:30.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:07:30.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:07:30.573] [exthost] [info] ExtensionService#_doActivateExtension darkriszty.markdown-table-prettify, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:07:33.056] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:07:38.659] [exthost] [info] ExtensionService#_doActivateExtension fcrespo82.markdown-table-formatter, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:07:39.026] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-12 12:09:21.685] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-12 12:09:22.039] [exthost] [info] Extension host with pid 17317 exiting with code 0

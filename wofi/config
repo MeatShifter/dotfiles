@@ -1,0 +1,11 @@
+xoffset=500
+yoffset=460
+show=drun
+width=315
+height=180
+always_parse_args=true
+show_all=true
+print_command=true
+layer=overlay
+insensitive=true
+prompt=MagicPuddle OS

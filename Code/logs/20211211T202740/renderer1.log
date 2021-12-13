@@ -1,0 +1,3 @@
+[2021-12-11 20:28:17.959] [renderer1] [error] [Extension Host] (node:2255) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-11 20:28:39.353] [renderer1] [info] The pty host became responsive again

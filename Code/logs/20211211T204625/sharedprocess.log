@@ -1,0 +1,87 @@
+[2021-12-11 20:47:02.297] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-11 20:47:08.524] [sharedprocess] [error] No ptyHost heartbeat after 12 seconds
+[2021-12-11 20:47:34.586] [sharedprocess] [info] Starting worker process with pid 4844 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-11 21:26:54.364] [sharedprocess] [info] Uninstalling extension: bierner.github-markdown-preview
+[2021-12-11 21:26:54.533] [sharedprocess] [info] Uninstalling extension: bierner.markdown-checkbox
+[2021-12-11 21:26:54.533] [sharedprocess] [info] Uninstalling extension: bierner.markdown-emoji
+[2021-12-11 21:26:54.534] [sharedprocess] [info] Uninstalling extension: bierner.markdown-preview-github-styles
+[2021-12-11 21:26:54.535] [sharedprocess] [info] Uninstalling extension: bierner.markdown-yaml-preamble
+[2021-12-11 21:26:55.300] [sharedprocess] [info] Successfully uninstalled extension: bierner.markdown-emoji
+[2021-12-11 21:26:55.323] [sharedprocess] [info] Successfully uninstalled extension: bierner.markdown-preview-github-styles
+[2021-12-11 21:26:55.385] [sharedprocess] [info] Successfully uninstalled extension: bierner.github-markdown-preview
+[2021-12-11 21:26:55.403] [sharedprocess] [info] Successfully uninstalled extension: bierner.markdown-checkbox
+[2021-12-11 21:26:55.431] [sharedprocess] [info] Successfully uninstalled extension: bierner.markdown-yaml-preamble
+[2021-12-11 21:27:02.190] [sharedprocess] [info] Installing extension: bierner.markdown-preview-github-styles
+[2021-12-11 21:27:04.127] [sharedprocess] [info] Downloaded extension: bierner.markdown-preview-github-styles /home/meatshifter/.config/Code/CachedExtensionVSIXs/bierner.markdown-preview-github-styles-0.2.0
+[2021-12-11 21:27:04.320] [sharedprocess] [info] Removed the extension from uninstalled list: bierner.markdown-preview-github-styles
+[2021-12-11 21:27:04.339] [sharedprocess] [info] Extension installed successfully: bierner.markdown-preview-github-styles
+[2021-12-11 21:30:01.293] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2021-12-11 21:30:04.379] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/meatshifter/.config/Code/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.7
+[2021-12-11 21:30:07.714] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.1d037e52-b4f1-4a90-9759-65ebfc7893ab: knisterpeter.vscode-github
+[2021-12-11 21:30:07.737] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/knisterpeter.vscode-github-0.30.7
+[2021-12-11 21:30:07.740] [sharedprocess] [info] Extracting completed. knisterpeter.vscode-github
+[2021-12-11 21:30:07.762] [sharedprocess] [info] Extension installed successfully: knisterpeter.vscode-github
+[2021-12-11 21:30:22.692] [sharedprocess] [info] Uninstalling extension: knisterpeter.vscode-github
+[2021-12-11 21:30:23.034] [sharedprocess] [info] Successfully uninstalled extension: knisterpeter.vscode-github
+[2021-12-11 21:30:24.910] [sharedprocess] [info] Worker process with pid 4844 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-11 21:30:32.594] [sharedprocess] [info] Starting worker process with pid 8437 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-11 21:31:02.866] [sharedprocess] [info] Installing extension: perkovec.emoji
+[2021-12-11 21:31:07.376] [sharedprocess] [info] Installing extension: bierner.markdown-emoji
+[2021-12-11 21:31:07.827] [sharedprocess] [info] Downloaded extension: perkovec.emoji /home/meatshifter/.config/Code/CachedExtensionVSIXs/perkovec.emoji-1.0.1
+[2021-12-11 21:31:09.372] [sharedprocess] [info] Downloaded extension: bierner.markdown-emoji /home/meatshifter/.config/Code/CachedExtensionVSIXs/bierner.markdown-emoji-0.2.1
+[2021-12-11 21:31:09.595] [sharedprocess] [info] Removed the extension from uninstalled list: bierner.markdown-emoji
+[2021-12-11 21:31:09.632] [sharedprocess] [info] Extension installed successfully: bierner.markdown-emoji
+[2021-12-11 21:31:12.154] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.20302af7-34ff-4e88-be6b-3fd4618e2923: perkovec.emoji
+[2021-12-11 21:31:12.201] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/perkovec.emoji-1.0.1
+[2021-12-11 21:31:12.211] [sharedprocess] [info] Extracting completed. perkovec.emoji
+[2021-12-11 21:31:12.217] [sharedprocess] [info] Extension installed successfully: perkovec.emoji
+[2021-12-11 21:31:23.051] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2021-12-11 21:31:25.071] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /home/meatshifter/.config/Code/CachedExtensionVSIXs/techer.open-in-browser-2.0.0
+[2021-12-11 21:31:25.237] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.9ee7884c-9769-4ee0-a14c-80afbd1f2176: techer.open-in-browser
+[2021-12-11 21:31:25.273] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/techer.open-in-browser-2.0.0
+[2021-12-11 21:31:25.282] [sharedprocess] [info] Extracting completed. techer.open-in-browser
+[2021-12-11 21:31:25.289] [sharedprocess] [info] Extension installed successfully: techer.open-in-browser
+[2021-12-11 21:32:43.056] [sharedprocess] [info] Installing extension: bierner.emojisense
+[2021-12-11 21:32:46.019] [sharedprocess] [info] Installing extension: ahmadawais.emoji-log-vscode
+[2021-12-11 21:32:46.306] [sharedprocess] [info] Downloaded extension: bierner.emojisense /home/meatshifter/.config/Code/CachedExtensionVSIXs/bierner.emojisense-0.9.0
+[2021-12-11 21:32:48.010] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.d3d9573d-94cc-43d3-b96d-69e3540719fc: bierner.emojisense
+[2021-12-11 21:32:48.059] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/bierner.emojisense-0.9.0
+[2021-12-11 21:32:48.068] [sharedprocess] [info] Extracting completed. bierner.emojisense
+[2021-12-11 21:32:48.086] [sharedprocess] [info] Extension installed successfully: bierner.emojisense
+[2021-12-11 21:32:49.400] [sharedprocess] [info] Downloaded extension: ahmadawais.emoji-log-vscode /home/meatshifter/.config/Code/CachedExtensionVSIXs/ahmadawais.emoji-log-vscode-1.0.0
+[2021-12-11 21:32:50.332] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.c8ba2a15-f10d-47b9-a2b2-aa04918854f9: ahmadawais.emoji-log-vscode
+[2021-12-11 21:32:50.418] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/ahmadawais.emoji-log-vscode-1.0.0
+[2021-12-11 21:32:50.428] [sharedprocess] [info] Extracting completed. ahmadawais.emoji-log-vscode
+[2021-12-11 21:32:50.471] [sharedprocess] [info] Extension installed successfully: ahmadawais.emoji-log-vscode
+[2021-12-11 21:33:10.144] [sharedprocess] [info] Installing extension: devzstudio.emoji-snippets
+[2021-12-11 21:33:12.490] [sharedprocess] [info] Downloaded extension: devzstudio.emoji-snippets /home/meatshifter/.config/Code/CachedExtensionVSIXs/devzstudio.emoji-snippets-1.5.3
+[2021-12-11 21:33:12.588] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.a70aed65-3179-44fb-8b8b-24bdf5a03e5b: devzstudio.emoji-snippets
+[2021-12-11 21:33:12.619] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/devzstudio.emoji-snippets-1.5.3
+[2021-12-11 21:33:12.623] [sharedprocess] [info] Extracting completed. devzstudio.emoji-snippets
+[2021-12-11 21:33:12.631] [sharedprocess] [info] Extension installed successfully: devzstudio.emoji-snippets
+[2021-12-11 21:34:23.414] [sharedprocess] [info] Installing extension: clydedsouza.emoji-badges-vscode
+[2021-12-11 21:34:26.167] [sharedprocess] [info] Downloaded extension: clydedsouza.emoji-badges-vscode /home/meatshifter/.config/Code/CachedExtensionVSIXs/clydedsouza.emoji-badges-vscode-1.0.0
+[2021-12-11 21:34:26.263] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.290e41b0-83a6-4705-af27-a27b1c4f90d2: clydedsouza.emoji-badges-vscode
+[2021-12-11 21:34:26.302] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/clydedsouza.emoji-badges-vscode-1.0.0
+[2021-12-11 21:34:26.321] [sharedprocess] [info] Extracting completed. clydedsouza.emoji-badges-vscode
+[2021-12-11 21:34:26.330] [sharedprocess] [info] Extension installed successfully: clydedsouza.emoji-badges-vscode
+[2021-12-11 21:35:41.321] [sharedprocess] [info] Installing extension: silentstorm.emojify
+[2021-12-11 21:35:43.335] [sharedprocess] [info] Downloaded extension: silentstorm.emojify /home/meatshifter/.config/Code/CachedExtensionVSIXs/silentstorm.emojify-1.0.1
+[2021-12-11 21:35:43.469] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.3a421594-c6bb-4871-80f0-e1aca98a5d23: silentstorm.emojify
+[2021-12-11 21:35:43.499] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/silentstorm.emojify-1.0.1
+[2021-12-11 21:35:43.504] [sharedprocess] [info] Extracting completed. silentstorm.emojify
+[2021-12-11 21:35:43.516] [sharedprocess] [info] Extension installed successfully: silentstorm.emojify
+[2021-12-11 21:35:55.384] [sharedprocess] [info] Installing extension: hoovercj.vscode-power-mode
+[2021-12-11 21:35:58.030] [sharedprocess] [info] Downloaded extension: hoovercj.vscode-power-mode /home/meatshifter/.config/Code/CachedExtensionVSIXs/hoovercj.vscode-power-mode-2.2.0
+[2021-12-11 21:35:59.192] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.cac19c31-85a8-4dfc-ad8e-8b257dce0067: hoovercj.vscode-power-mode
+[2021-12-11 21:35:59.230] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0
+[2021-12-11 21:35:59.241] [sharedprocess] [info] Extracting completed. hoovercj.vscode-power-mode
+[2021-12-11 21:35:59.267] [sharedprocess] [info] Extension installed successfully: hoovercj.vscode-power-mode
+[2021-12-11 21:40:57.262] [sharedprocess] [info] Installing extension: idleberg.emoji-code
+[2021-12-11 21:41:00.436] [sharedprocess] [info] Downloaded extension: idleberg.emoji-code /home/meatshifter/.config/Code/CachedExtensionVSIXs/idleberg.emoji-code-0.11.1
+[2021-12-11 21:41:00.614] [sharedprocess] [info] Extracted extension to /home/meatshifter/.vscode/extensions/.f09a747e-d5aa-45a3-a811-51fcc883abe1: idleberg.emoji-code
+[2021-12-11 21:41:00.648] [sharedprocess] [info] Renamed to /home/meatshifter/.vscode/extensions/idleberg.emoji-code-0.11.1
+[2021-12-11 21:41:00.658] [sharedprocess] [info] Extracting completed. idleberg.emoji-code
+[2021-12-11 21:41:00.660] [sharedprocess] [info] Extension installed successfully: idleberg.emoji-code
+[2021-12-11 21:41:06.222] [sharedprocess] [info] Uninstalling extension: silentstorm.emojify
+[2021-12-11 21:41:06.570] [sharedprocess] [info] Successfully uninstalled extension: silentstorm.emojify

@@ -1,0 +1,4 @@
+# MagicPuddle OS MPBOOK sway config.
+# Read `man 5 sway` for a complete reference.
+#include ~/.config/sway/sway.d/*
+include ~/.config/sway/config.d/*

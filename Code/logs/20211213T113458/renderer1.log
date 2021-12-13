@@ -1,0 +1,6 @@
+[2021-12-13 11:35:08.572] [renderer1] [error] [Extension Host] (node:1893) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-13 11:35:16.396] [renderer1] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/meatshifter/MagicPuddle
+[2021-12-13 11:35:27.677] [renderer1] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/meatshifter/.config/Code/logs/20211210T220403' failed: No such file or directory (EUNKNOWN) (path: /home/meatshifter)
+[2021-12-13 11:35:27.698] [renderer1] [error] [File Watcher (parcel)] restarting watcher after error: inotify_add_watch on '/home/meatshifter/.config/Code/logs/20211210T220403' failed: No such file or directory
+[2021-12-13 11:35:28.258] [renderer1] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/meatshifter/MagicPuddle

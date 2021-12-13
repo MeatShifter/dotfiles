@@ -1,0 +1,113 @@
+[2021-12-12 10:12:50.112] [renderer1] [error] [Extension Host] (node:11115) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-12 10:13:18.497] [renderer1] [warning] [File Watcher (parcel)] ignoring a path for watching who's parent is already watched: /home/meatshifter/MagicPuddle
+[2021-12-12 10:38:53.120] [renderer1] [error] ENOENT: no such file or directory, lstat '/home/meatshifter/LINK': Error: ENOENT: no such file or directory, lstat '/home/meatshifter/LINK'
+    at lstatSync (fs.js:1077:3)
+    at Object.e.lstatSync (electron/js2c/asar_bundle.js:5:3528)
+    at /home/meatshifter/.vscode/extensions/exodiusstudios.comment-anchors-1.9.6/out/util/linkProvider.js:43:33
+    at Array.forEach (<anonymous>)
+    at LinkProvider.provideDocumentLinks (/home/meatshifter/.vscode/extensions/exodiusstudios.comment-anchors-1.9.6/out/util/linkProvider.js:36:14)
+    at V.provideLinks (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:106361)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:124155
+    at We._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:111974)
+    at We.$provideDocumentLinks (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:124131)
+    at t._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:13802)
+    at t._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:13486)
+    at t._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12097)
+    at t._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10826)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:8922
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at r.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18942)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:34341
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at r.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18942)
+    at n._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:23523)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21057
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at w.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15770)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:14900
+    at Socket.T (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:13813)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-12-12 10:38:54.809] [renderer1] [error] ENOENT: no such file or directory, lstat '/home/meatshifter/LINK': Error: ENOENT: no such file or directory, lstat '/home/meatshifter/LINK'
+    at lstatSync (fs.js:1077:3)
+    at Object.e.lstatSync (electron/js2c/asar_bundle.js:5:3528)
+    at /home/meatshifter/.vscode/extensions/exodiusstudios.comment-anchors-1.9.6/out/util/linkProvider.js:43:33
+    at Array.forEach (<anonymous>)
+    at LinkProvider.provideDocumentLinks (/home/meatshifter/.vscode/extensions/exodiusstudios.comment-anchors-1.9.6/out/util/linkProvider.js:36:14)
+    at V.provideLinks (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:106361)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:124155
+    at We._withAdapter (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:111974)
+    at We.$provideDocumentLinks (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:124131)
+    at t._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:13802)
+    at t._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:13486)
+    at t._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12097)
+    at t._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:10826)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:8922
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at r.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18942)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:34341
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at r.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18942)
+    at n._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:23523)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21057
+    at u.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at w.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15770)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:14900
+    at Socket.T (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:114:13813)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-12-12 10:52:33.753] [renderer1] [error] Error: Unable to move/copy '/home/meatshifter/.config/Kvantum/menus' because target '/home/meatshifter/.config/menus' already exists at destination.
+    at Ei.doValidateMoveCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:39530)
+    at async Ei.doCanMoveCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:36971)
+    at async n.doMoveOrCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:57390)
+    at async ml.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:20958)
+    at async r.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:26540)
+    at async o._performFileEdits (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28623)
+    at async o.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28166)
+    at async r.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:30428)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1506:64020
+[2021-12-12 10:52:33.765] [renderer1] [error] Unable to move/copy '/home/meatshifter/.config/Kvantum/menus' because target '/home/meatshifter/.config/menus' already exists at destination.: Error: Unable to move/copy '/home/meatshifter/.config/Kvantum/menus' because target '/home/meatshifter/.config/menus' already exists at destination.
+    at Ei.doValidateMoveCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:39530)
+    at async Ei.doCanMoveCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:36971)
+    at async n.doMoveOrCopy (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2363:57390)
+    at async ml.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:20958)
+    at async r.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:26540)
+    at async o._performFileEdits (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28623)
+    at async o.perform (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:28166)
+    at async r.apply (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2369:30428)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1506:64020
+[2021-12-12 10:52:38.453] [renderer1] [error] TreeError [FileExplorer] Data tree node not found: ExplorerItem: menus: Error: TreeError [FileExplorer] Data tree node not found: ExplorerItem: menus
+    at Z.getDataNode (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:19883)
+    at Z.getNode (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:17532)
+    at Se (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:37358)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:45514
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:69:1712)
+    at y.spliceSimple (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:71693)
+    at y.splice (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:69567)
+    at L._setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:79576)
+    at L.setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:78978)
+    at a._setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:85317)
+    at a.setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:84757)
+    at g.setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:88828)
+    at y.setChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:8635)
+    at Z.render (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:23305)
+    at Z.render (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:27806)
+    at Z.refreshAndRenderNode (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:20023)
+    at async Z._updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:17085)
+    at async Z.updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:192:16751)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1506:66888
+    at async Promise.all (index 0)
+    at async ia.onDidRunOperation (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1506:66821)
+[2021-12-12 11:16:08.509] [renderer1] [error] [text file model] handleSaveError(46) - exit - resulted in a save error: Error: Unable to write file '/etc/xdg/reflector/reflector.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/xdg/reflector/reflector.conf') file:///etc/xdg/reflector/reflector.conf
+[2021-12-12 11:16:11.165] [renderer1] [error] [text file model] handleSaveError(46) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/xdg/reflector/reflector.conf
+[2021-12-12 11:16:14.288] [renderer1] [error] [text file model] handleSaveError(46) - exit - resulted in a save error: Error: Unable to write file '/etc/xdg/reflector/reflector.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/xdg/reflector/reflector.conf') file:///etc/xdg/reflector/reflector.conf
+[2021-12-12 11:16:36.950] [renderer1] [error] [text file model] handleSaveError(46) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///etc/xdg/reflector/reflector.conf
+[2021-12-12 11:16:38.156] [renderer1] [error] [text file model] handleSaveError(46) - exit - resulted in a save error: Error: Unable to write file '/etc/xdg/reflector/reflector.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/xdg/reflector/reflector.conf') file:///etc/xdg/reflector/reflector.conf

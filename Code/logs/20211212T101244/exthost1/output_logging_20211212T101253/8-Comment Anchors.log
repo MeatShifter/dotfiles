@@ -1,0 +1,35 @@
+[Comment Anchors] Tags: !SECTION|SECTION|ANCHOR|REVIEW|FIXME|TODO|STUB|NOTE|LINK
+[Comment Anchors] Separators:  +\- +|: +| +
+[Comment Anchors] Using matcher /[^\w](!SECTION|SECTION|ANCHOR|REVIEW|FIXME|TODO|STUB|NOTE|LINK)(\[.*\])?(( +\- +|: +| +)(.*))?/gm
+[Comment Anchors] Generated icon cache at /home/meatshifter/.config/Code/User/globalStorage/exodiusstudios.comment-anchors/icons
+[Comment Anchors] Trying to set key=id,value=my-anchor
+[Comment Anchors] Trying to set key=id,value=my-anchor
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems
+[Comment Anchors] provideCompletionItems

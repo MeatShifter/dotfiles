@@ -1,0 +1,11 @@
+[2021-12-11 20:46:27.034] [main] [info] update#setState idle
+[2021-12-11 20:46:28.593] [main] [info] ExtensionHostStarterWorker created
+[2021-12-11 20:46:48.975] [main] [info] Starting extension host with pid 4426 (fork() took 405 ms).
+[2021-12-11 20:46:57.037] [main] [info] update#setState checking for updates
+[2021-12-11 20:46:59.043] [main] [info] update#setState idle
+[2021-12-11 20:47:58.200] [main] [info] Enabling inspect port on extension host with pid 4426.
+[2021-12-11 21:30:25.004] [main] [info] Extension host with pid 4426 exited with code: 0, signal: null.
+[2021-12-11 21:30:28.758] [main] [info] Starting extension host with pid 8406 (fork() took 24 ms).
+[2021-12-11 21:38:51.514] [main] [info] Enabling inspect port on extension host with pid 8406.
+[2021-12-12 10:12:38.302] [main] [info] Waiting for extension host with pid 8406 to exit.
+[2021-12-12 10:12:38.542] [main] [info] Extension host with pid 8406 exited with code: 0, signal: null.

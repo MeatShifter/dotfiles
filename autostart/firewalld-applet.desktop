@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System;Monitor;
+Comment=
+Comment=
+Exec=firewalld-applet 
+GenericName=
+GenericName=
+Icon=firewall
+MimeType=
+Name=firewalld-applet
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+TryExec=firewalld-applet
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

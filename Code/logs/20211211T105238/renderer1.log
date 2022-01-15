@@ -1,5 +1,0 @@
-[2021-12-11 10:52:46.856] [renderer1] [error] [Extension Host] (node:9535) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-12-11 12:00:39.371] [renderer1] [error] [Extension Host] (node:12179) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-12-11 12:01:45.162] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.microsoft-authentication' took 91% of 2896.699ms, saved PROFILE here: 'file:///tmp/exthost-70f932.cpuprofile' [{"id":"program","total":0,"percentage":0},{"id":"self","total":143443,"percentage":5},{"id":"vscode.git","total":106668,"percentage":4},{"id":"vscode.microsoft-authentication","total":2643254,"percentage":91}]

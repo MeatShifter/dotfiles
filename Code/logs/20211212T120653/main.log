@@ -1,8 +1,0 @@
-[2021-12-12 12:06:54.916] [main] [info] update#setState idle
-[2021-12-12 12:06:55.539] [main] [info] ExtensionHostStarterWorker created
-[2021-12-12 12:07:07.464] [main] [info] Starting extension host with pid 17317 (fork() took 20 ms).
-[2021-12-12 12:07:24.919] [main] [info] update#setState checking for updates
-[2021-12-12 12:07:25.406] [main] [info] update#setState idle
-[2021-12-12 12:07:32.929] [main] [info] Enabling inspect port on extension host with pid 17317.
-[2021-12-12 12:09:22.016] [main] [info] Waiting for extension host with pid 17317 to exit.
-[2021-12-12 12:09:22.776] [main] [info] Extension host with pid 17317 exited with code: 0, signal: null.

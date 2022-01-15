@@ -1,5 +1,0 @@
-[2021-12-13 11:35:12.275] [sharedprocess] [info] Starting worker process with pid 1941 (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-13 11:35:12.339] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2021-12-13 11:35:27.740] [sharedprocess] [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/parcel/watcherApp)
-[2021-12-13 11:35:27.747] [sharedprocess] [info] Worker process with pid 1941 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-13 11:35:27.762] [sharedprocess] [info] Starting worker process with pid 2061 (type: watcherServiceParcelSharedProcess, window: 1).
